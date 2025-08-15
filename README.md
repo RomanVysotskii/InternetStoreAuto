@@ -1,0 +1,11 @@
+# Internet Store Auto Order
+
+Проект написал для портфолио
+
+Данный код автоматически заходит на сайт https://www.saucedemo.com/v1. Находит нужный товар, а также самый дешёвый товар, добавляет их в корзину и оплачивает.
+В качестве результат программа возвращает скриншот удачной покупки, а также выводит общую стоимость в консоль.
+
+## Установка:
+git clone https://github.com/RomanVysotskii/InternetStoreAuto
+cd project
+pip install -r requirements.txt
